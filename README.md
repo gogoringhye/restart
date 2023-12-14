@@ -37,3 +37,4 @@ inset (그림자 효과): border: px inset #color;
 outset (볼록한 효과): border: px outset #color;
 ```
 🍳 8.display:inline-block으로 바꿔주는 이유
+# ![image](https://github.com/gogoringhye/restart/assets/145514996/5934d667-0a3f-456e-a530-61edcfa14b44)
