@@ -12,3 +12,5 @@
 ![image](https://github.com/gogoringhye/restart/assets/145514996/67444c20-9689-4ed2-a439-f2bcd3fd21bf)
 
 4. max-width, min-width 차이점
+![image](https://github.com/gogoringhye/restart/assets/145514996/512edd99-05eb-422e-bb51-86a49353afc7)
+
