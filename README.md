@@ -14,8 +14,7 @@
 <span>, <a>, <strong>, <em>, <img>, <br>, <span>
 
 - 블록 레벨 요소
-  <div> (Division):
-<h1>, <p>, <ul>/<ol>, <li>, <table>, <blockquote>, <hr>
+<div>, <h1>, <p>, <ul>/<ol>, <li>, <table>, <blockquote>, <hr>
 ```
 🍳 4. max-width, min-width 차이점
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/512edd99-05eb-422e-bb51-86a49353afc7)
