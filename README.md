@@ -10,6 +10,13 @@
 🍳 3. h1, p, span 차이점을 알겠는데 정작 쓸 때 바로바로 로딩이 안됨
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/67444c20-9689-4ed2-a439-f2bcd3fd21bf)
 
+- 인라인 요소
+<span>, <a>, <strong>, <em>, <img>, <br><span>:
+
+- 블록 레벨 요소
+  <div> (Division):
+<h1>, <p>, <ul>/<ol>, <li>, <table>, <blockquote>, <hr>
+
 🍳 4. max-width, min-width 차이점
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/512edd99-05eb-422e-bb51-86a49353afc7)
 
@@ -19,7 +26,7 @@
 🍳 6. top 50px은 적용되는데 50%는 적용안되는 이유
 --> 부모의 넓이를 잡아보면 부모의 넓이가 좁아서임을 알 수 있음
 
-🍳 2. 사각형 만드는 방법과 border: px solid #color 여기 solid 대신 올 수 있는 것들에는 무엇이 있는지
+🍳 7. 사각형 만드는 방법과 border: px solid #color 여기 solid 대신 올 수 있는 것들에는 무엇이 있는지
 ```
 solid (실선): border: px solid #color;
 dashed (대시 선): border: px dashed #color;
@@ -30,3 +37,4 @@ ridge (높낮이가 파여있는 선): border: px ridge #color;
 inset (그림자 효과): border: px inset #color;
 outset (볼록한 효과): border: px outset #color;
 ```
+🍳 8.display:inline-block으로 바꿔주는 이유
