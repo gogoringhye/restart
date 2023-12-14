@@ -13,3 +13,4 @@
 🍳 4. max-width, min-width 차이점
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/512edd99-05eb-422e-bb51-86a49353afc7)
 
+🍳 5. text-align: center; 사용하면 텍스트가 중앙정렬 되는 줄 알았는데 왜 위치까지 달라짐? 
