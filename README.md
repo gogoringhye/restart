@@ -10,3 +10,5 @@
 
 3. h1, p, span 차이점을 알겠는데 정작 쓸 때 바로바로 로딩이 안됨
 ![image](https://github.com/gogoringhye/restart/assets/145514996/67444c20-9689-4ed2-a439-f2bcd3fd21bf)
+
+4. max-width, min-width 차이점
