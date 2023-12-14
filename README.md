@@ -8,3 +8,4 @@
 2. position: relative; 쓰기 전에 top 값 적용이 안되는 이유
 
 3. h1, p, span 차이점을 알겠는데 정작 쓸 때 바로바로 로딩이 안됨
+![image](https://github.com/gogoringhye/restart/assets/145514996/e2aa1c2a-5fe7-40f4-8c85-4d53bc875d6b)
