@@ -3,3 +3,4 @@
 ![image](https://github.com/gogoringhye/restart/assets/145514996/2b0cf9d8-03be-431a-833b-2258b02916e5)
 
 
+/* -는 의, _ ~안에 있는 */
