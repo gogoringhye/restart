@@ -38,5 +38,5 @@ outset (볼록한 효과): border: px outset #color;
 ```
 💥🍳 8.display:inline-block으로 바꿔주는 이유, text-align: center;와 함께 사용할 때
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/5934d667-0a3f-456e-a530-61edcfa14b44)
-#![image](https://github.com/gogoringhye/restart/assets/145514996/332354c8-d04d-4c8c-9961-57e70d5b7f7c)
+# ![image](https://github.com/gogoringhye/restart/assets/145514996/332354c8-d04d-4c8c-9961-57e70d5b7f7c)
 
