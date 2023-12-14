@@ -36,5 +36,5 @@ ridge (높낮이가 파여있는 선): border: px ridge #color;
 inset (그림자 효과): border: px inset #color;
 outset (볼록한 효과): border: px outset #color;
 ```
-🍳 8.display:inline-block으로 바꿔주는 이유
+💥🍳 8.display:inline-block으로 바꿔주는 이유, text-align: center;와 함께 사용할 때
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/5934d667-0a3f-456e-a530-61edcfa14b44)
