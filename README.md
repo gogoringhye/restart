@@ -11,7 +11,7 @@
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/67444c20-9689-4ed2-a439-f2bcd3fd21bf)
 ```
 - 인라인 요소
-<span>, <a>, <strong>, <em>, <img>, <br><span>:
+<span>, <a>, <strong>, <em>, <img>, <br>, <span>
 
 - 블록 레벨 요소
   <div> (Division):
