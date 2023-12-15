@@ -40,3 +40,8 @@ outset (볼록한 효과): border: px outset #color;
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/5934d667-0a3f-456e-a530-61edcfa14b44)
 # ![image](https://github.com/gogoringhye/restart/assets/145514996/332354c8-d04d-4c8c-9961-57e70d5b7f7c)
 
+
+
+🍳 9. display: inline-block; 안적으면 사진 안보이는 이유
+text-align: center;는 주로 인라인 요소들을 수평으로 가운데 정렬하는 데 사용되기 때문에 display: inline-block;를 적용하지 않으면 블록 레벨 요소는 기본적으로 수직으로 쌓이게 되어, 여러 요소들이 세로로 배치됩니다. 
+이 경우에는 text-align: center;가 적용되어도 효과가 나타나지 않음
